@@ -7,5 +7,5 @@ Origintrail: https://docs.origintrail.io/dkg-v6-upcoming-version/introduction-to
 
 Chainlink: https://docs.chain.link/docs/running-a-chainlink-node/
 
-Please note the reuired environment variables. It is recommended to run the adapter as a severless function.
+Please note the required environment variables. It is recommended to run the adapter as a severless function.
 
